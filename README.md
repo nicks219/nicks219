@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* I'm a middle level .NET developer
 <!--
 **nicks219/nicks219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
