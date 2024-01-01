@@ -1,12 +1,13 @@
-### Hi there 👋
-
-* I'm a pre-middle level .NET developer
+![cover](https://github.com/nicks219/nicks219/assets/65119519/cd5e1056-f20a-4355-a191-e0ec2a96be4a)
+* ### Hi there 👋
+* I'm a pRe-midDle level .NET developer etc..
 <!--
 **nicks219/nicks219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
